@@ -5,7 +5,7 @@ import readline from 'readline';
 // run netstat -a > portScan.txt
 // conver output to UTF 8 (PowerShell)
 // Get-Content .\portScan.txt | Set-Content -Encoding utf8 portScanUtf8.txt
-//  #TODO - query well known ports to add them to used port list to avoid potential conflicts with future apps
+// TODO - query well known ports to add them to used port list to avoid potential conflicts with future apps
 var data = fs.readFileSync('./portScanUtf8.txt', { encoding: "utf-8" });
 const logFile = fs.readFileSync('./portLog.log', { encoding: "utf-8" });
 var splitByRow = data.split('\n');
