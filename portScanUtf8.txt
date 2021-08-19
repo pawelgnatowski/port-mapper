@@ -1,0 +1,482 @@
+﻿
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:80             dev-server:0           LISTENING
+  TCP    0.0.0.0:135            dev-server:0           LISTENING
+  TCP    0.0.0.0:445            dev-server:0           LISTENING
+  TCP    0.0.0.0:1521           dev-server:0           LISTENING
+  TCP    0.0.0.0:2179           dev-server:0           LISTENING
+  TCP    0.0.0.0:2869           dev-server:0           LISTENING
+  TCP    0.0.0.0:3389           dev-server:0           LISTENING
+  TCP    0.0.0.0:5040           dev-server:0           LISTENING
+  TCP    0.0.0.0:5357           dev-server:0           LISTENING
+  TCP    0.0.0.0:5432           dev-server:0           LISTENING
+  TCP    0.0.0.0:5434           dev-server:0           LISTENING
+  TCP    0.0.0.0:5435           dev-server:0           LISTENING
+  TCP    0.0.0.0:5443           dev-server:0           LISTENING
+  TCP    0.0.0.0:7680           dev-server:0           LISTENING
+  TCP    0.0.0.0:7899           dev-server:0           LISTENING
+  TCP    0.0.0.0:17500          dev-server:0           LISTENING
+  TCP    0.0.0.0:23443          dev-server:0           LISTENING
+  TCP    0.0.0.0:27036          dev-server:0           LISTENING
+  TCP    0.0.0.0:41000          dev-server:0           LISTENING
+  TCP    0.0.0.0:47984          dev-server:0           LISTENING
+  TCP    0.0.0.0:47989          dev-server:0           LISTENING
+  TCP    0.0.0.0:49664          dev-server:0           LISTENING
+  TCP    0.0.0.0:49665          dev-server:0           LISTENING
+  TCP    0.0.0.0:49666          dev-server:0           LISTENING
+  TCP    0.0.0.0:49667          dev-server:0           LISTENING
+  TCP    0.0.0.0:49668          dev-server:0           LISTENING
+  TCP    0.0.0.0:59993          dev-server:0           LISTENING
+  TCP    0.0.0.0:63256          dev-server:0           LISTENING
+  TCP    0.0.0.0:63267          dev-server:0           LISTENING
+  TCP    30.20.30.101:139       dev-server:0           LISTENING
+  TCP    30.20.30.101:445       M2021DEVBOX:53628      ESTABLISHED
+  TCP    30.20.30.101:3389      185.202.1.73:37289     ESTABLISHED
+  TCP    30.20.30.101:5434      M2021DEVBOX:58883      ESTABLISHED
+  TCP    30.20.30.101:5434      M2021DEVBOX:58884      ESTABLISHED
+  TCP    30.20.30.101:5434      WIN2016TEMPLATE:58430  ESTABLISHED
+  TCP    30.20.30.101:5434      WIN2016TEMPLATE:58431  ESTABLISHED
+  TCP    30.20.30.101:49197     muc03s08-in-f42:https  ESTABLISHED
+  TCP    30.20.30.101:49360     a104-81-110-122:https  ESTABLISHED
+  TCP    30.20.30.101:49525     199.232.192.134:https  ESTABLISHED
+  TCP    30.20.30.101:49548     ec2-3-68-61-181:https  ESTABLISHED
+  TCP    30.20.30.101:49969     waw02s16-in-f3:https   TIME_WAIT
+  TCP    30.20.30.101:50598     waw02s16-in-f3:https   ESTABLISHED
+  TCP    30.20.30.101:50601     40.101.12.82:https     ESTABLISHED
+  TCP    30.20.30.101:50655     ec2-3-68-63-139:https  ESTABLISHED
+  TCP    30.20.30.101:51237     40.101.121.18:https    ESTABLISHED
+  TCP    30.20.30.101:51241     40.101.82.66:https     ESTABLISHED
+  TCP    30.20.30.101:51580     104.26.6.139:https     ESTABLISHED
+  TCP    30.20.30.101:51758     17.248.172.132:https   CLOSE_WAIT
+  TCP    30.20.30.101:51770     162.125.19.9:https     ESTABLISHED
+  TCP    30.20.30.101:51801     waw07s03-in-f10:https  CLOSE_WAIT
+  TCP    30.20.30.101:52099     ec2-52-7-78-177:9000   ESTABLISHED
+  TCP    30.20.30.101:52249     17.248.173.45:https    CLOSE_WAIT
+  TCP    30.20.30.101:52251     17.248.173.47:https    CLOSE_WAIT
+  TCP    30.20.30.101:52252     17.248.173.47:https    CLOSE_WAIT
+  TCP    30.20.30.101:52254     17.248.172.141:https   CLOSE_WAIT
+  TCP    30.20.30.101:52258     17.248.173.45:https    CLOSE_WAIT
+  TCP    30.20.30.101:52343     waw02s13-in-f8:https   ESTABLISHED
+  TCP    30.20.30.101:52496     199.232.192.134:https  ESTABLISHED
+  TCP    30.20.30.101:52669     muc03s08-in-f42:https  ESTABLISHED
+  TCP    30.20.30.101:52800     17.248.173.47:https    CLOSE_WAIT
+  TCP    30.20.30.101:52853     ec2-3-68-61-181:https  ESTABLISHED
+  TCP    30.20.30.101:53325     104.26.2.70:https      ESTABLISHED
+  TCP    30.20.30.101:53429     waw02s07-in-f14:https  ESTABLISHED
+  TCP    30.20.30.101:54126     151.101.194.133:https  ESTABLISHED
+  TCP    30.20.30.101:54257     ec2-3-68-63-139:https  ESTABLISHED
+  TCP    30.20.30.101:54441     ec2-52-2-36-252:http   ESTABLISHED
+  TCP    30.20.30.101:54459     ec2-35-175-38-226:https  ESTABLISHED
+  TCP    30.20.30.101:54644     151.101.194.133:https  ESTABLISHED
+  TCP    30.20.30.101:55155     ec2-3-67-245-95:https  ESTABLISHED
+  TCP    30.20.30.101:55528     89-79-41-133:60002     ESTABLISHED
+  TCP    30.20.30.101:55592     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55593     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55594     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55595     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55596     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55597     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55599     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55600     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55601     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55602     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55603     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55604     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:55605     13.69.68.64:https      ESTABLISHED
+  TCP    30.20.30.101:55606     52.112.95.79:https     ESTABLISHED
+  TCP    30.20.30.101:55609     216.239.32.3:https     TIME_WAIT
+  TCP    30.20.30.101:55614     lb-140-82-121-3-fra:https  TIME_WAIT
+  TCP    30.20.30.101:55621     89-79-41-133:60002     TIME_WAIT
+  TCP    30.20.30.101:55623     89-79-41-133:60002     TIME_WAIT
+  TCP    30.20.30.101:55624     89-79-41-133:60002     TIME_WAIT
+  TCP    30.20.30.101:55956     51.103.5.159:https     ESTABLISHED
+  TCP    30.20.30.101:56098     151.101.128.134:https  ESTABLISHED
+  TCP    30.20.30.101:56743     104.22.25.74:https     ESTABLISHED
+  TCP    30.20.30.101:57558     waw02s22-in-f10:https  ESTABLISHED
+  TCP    30.20.30.101:57809     40.101.8.162:https     ESTABLISHED
+  TCP    30.20.30.101:58431     waw02s14-in-f14:https  ESTABLISHED
+  TCP    30.20.30.101:58433     52.97.201.82:https     ESTABLISHED
+  TCP    30.20.30.101:58467     52.159.49.199:https    ESTABLISHED
+  TCP    30.20.30.101:59077     waw07s05-in-f10:https  CLOSE_WAIT
+  TCP    30.20.30.101:59287     lb-140-82-113-26-iad:https  ESTABLISHED
+  TCP    30.20.30.101:59413     ec2-3-123-248-34:https  ESTABLISHED
+  TCP    30.20.30.101:59419     a104-81-60-227:https   ESTABLISHED
+  TCP    30.20.30.101:59750     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59754     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59755     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59756     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59757     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59758     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59759     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59760     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59761     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59762     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59763     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59764     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59767     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59768     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59769     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59770     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59771     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59772     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59773     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59774     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59775     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59776     89-79-41-133:59991     ESTABLISHED
+  TCP    30.20.30.101:59830     waw02s07-in-f14:https  TIME_WAIT
+  TCP    30.20.30.101:60083     ec2-52-202-62-248:https  ESTABLISHED
+  TCP    30.20.30.101:60086     ec2-3-235-96-203:https  ESTABLISHED
+  TCP    30.20.30.101:60105     server-54-192-230-117:https  ESTABLISHED
+  TCP    30.20.30.101:60230     lq-in-f188:5228        ESTABLISHED
+  TCP    30.20.30.101:60231     40.126.32.99:https     CLOSE_WAIT
+  TCP    30.20.30.101:60232     40.126.32.99:https     CLOSE_WAIT
+  TCP    30.20.30.101:60233     40.126.32.99:https     CLOSE_WAIT
+  TCP    30.20.30.101:60347     17.57.146.164:5223     ESTABLISHED
+  TCP    30.20.30.101:61643     17.248.172.236:https   CLOSE_WAIT
+  TCP    30.20.30.101:61646     52.114.148.145:https   ESTABLISHED
+  TCP    30.20.30.101:62025     ec2-52-202-62-202:https  CLOSE_WAIT
+  TCP    30.20.30.101:62577     17.248.173.47:https    CLOSE_WAIT
+  TCP    30.20.30.101:62581     waw02s07-in-f170:https  CLOSE_WAIT
+  TCP    30.20.30.101:62582     mil02s06-in-f13:https  CLOSE_WAIT
+  TCP    30.20.30.101:62721     52.97.137.226:https    ESTABLISHED
+  TCP    30.20.30.101:62832     ec2-3-67-245-95:https  ESTABLISHED
+  TCP    30.20.30.101:63118     40.101.62.34:https     ESTABLISHED
+  TCP    30.20.30.101:63216     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63217     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63218     93.184.220.29:http     CLOSE_WAIT
+  TCP    30.20.30.101:63226     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63227     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63228     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63229     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63230     a92-123-195-35:https   CLOSE_WAIT
+  TCP    30.20.30.101:63231     a92-123-195-35:https   CLOSE_WAIT
+  TCP    30.20.30.101:63233     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63234     a23-197-105-166:http   CLOSE_WAIT
+  TCP    30.20.30.101:63237     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63238     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63239     a2-21-142-245:http     CLOSE_WAIT
+  TCP    30.20.30.101:63240     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63248     a2-21-143-178:https    CLOSE_WAIT
+  TCP    30.20.30.101:63266     17.248.172.176:https   CLOSE_WAIT
+  TCP    30.20.30.101:63672     ec2-18-194-78-163:https  ESTABLISHED
+  TCP    30.20.30.101:63780     20.54.232.160:https    ESTABLISHED
+  TCP    30.20.30.101:63781     host-193-59-178-221:https  ESTABLISHED
+  TCP    30.20.30.101:63782     52.97.223.66:https     ESTABLISHED
+  TCP    30.20.30.101:63783     52.97.223.66:https     ESTABLISHED
+  TCP    30.20.30.101:64317     216.239.36.54:https    TIME_WAIT
+  TCP    30.20.30.101:64622     194:https              ESTABLISHED
+  TCP    30.20.30.101:64636     51.103.5.159:https     ESTABLISHED
+  TCP    30.20.30.101:64668     51.140.202.63:https    ESTABLISHED
+  TCP    30.20.30.101:64794     40.77.226.250:https    TIME_WAIT
+  TCP    30.20.30.101:64811     52.113.194.132:https   ESTABLISHED
+  TCP    30.20.30.101:64812     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64813     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64814     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64815     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64816     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64817     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64818     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64819     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64821     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64822     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64823     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64824     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64825     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64826     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64827     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64828     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64829     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64830     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64831     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64832     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64833     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64834     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64835     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64836     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64837     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64838     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64839     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64840     20.189.173.6:https     ESTABLISHED
+  TCP    30.20.30.101:64841     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64842     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64843     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64844     router:60873           TIME_WAIT
+  TCP    30.20.30.101:64845     162.159.136.234:https  ESTABLISHED
+  TCP    30.20.30.101:64849     a95-100-153-112:https  TIME_WAIT
+  TCP    30.20.30.101:64864     89-79-41-133:60002     TIME_WAIT
+  TCP    30.20.30.101:64877     a104-92-93-112:http    TIME_WAIT
+  TCP    30.20.30.101:64882     a104-81-60-130:https   ESTABLISHED
+  TCP    30.20.30.101:65076     waw07s05-in-f5:https   ESTABLISHED
+  TCP    30.20.30.101:65078     ec2-54-235-205-167:https  ESTABLISHED
+  TCP    30.20.30.101:65234     162.125.19.131:https   ESTABLISHED
+  TCP    30.20.30.101:65242     52.114.77.96:https     ESTABLISHED
+  TCP    30.20.30.101:65253     sippoolblu0b08:https   ESTABLISHED
+  TCP    30.20.30.101:65278     ec2-34-202-197-154:https  ESTABLISHED
+  TCP    127.0.0.1:843          dev-server:0           LISTENING
+  TCP    127.0.0.1:3213         dev-server:0           LISTENING
+  TCP    127.0.0.1:3215         dev-server:0           LISTENING
+  TCP    127.0.0.1:3216         dev-server:0           LISTENING
+  TCP    127.0.0.1:3217         dev-server:0           LISTENING
+  TCP    127.0.0.1:5354         dev-server:0           LISTENING
+  TCP    127.0.0.1:5354         kubernetes:53565       ESTABLISHED
+  TCP    127.0.0.1:5354         kubernetes:53566       ESTABLISHED
+  TCP    127.0.0.1:5939         dev-server:0           LISTENING
+  TCP    127.0.0.1:6443         dev-server:0           LISTENING
+  TCP    127.0.0.1:6463         dev-server:0           LISTENING
+  TCP    127.0.0.1:8005         dev-server:0           LISTENING
+  TCP    127.0.0.1:8301         dev-server:0           LISTENING
+  TCP    127.0.0.1:8500         dev-server:0           LISTENING
+  TCP    127.0.0.1:8600         dev-server:0           LISTENING
+  TCP    127.0.0.1:9010         dev-server:0           LISTENING
+  TCP    127.0.0.1:9010         kubernetes:57597       ESTABLISHED
+  TCP    127.0.0.1:9080         dev-server:0           LISTENING
+  TCP    127.0.0.1:9100         dev-server:0           LISTENING
+  TCP    127.0.0.1:9100         kubernetes:57580       ESTABLISHED
+  TCP    127.0.0.1:9180         dev-server:0           LISTENING
+  TCP    127.0.0.1:9977         dev-server:0           LISTENING
+  TCP    127.0.0.1:9977         kubernetes:65346       ESTABLISHED
+  TCP    127.0.0.1:17600        dev-server:0           LISTENING
+  TCP    127.0.0.1:27015        dev-server:0           LISTENING
+  TCP    127.0.0.1:27060        dev-server:0           LISTENING
+  TCP    127.0.0.1:36369        dev-server:0           LISTENING
+  TCP    127.0.0.1:36369        kubernetes:50910       ESTABLISHED
+  TCP    127.0.0.1:36369        kubernetes:58865       ESTABLISHED
+  TCP    127.0.0.1:44950        dev-server:0           LISTENING
+  TCP    127.0.0.1:44960        dev-server:0           LISTENING
+  TCP    127.0.0.1:45654        dev-server:0           LISTENING
+  TCP    127.0.0.1:50910        kubernetes:36369       ESTABLISHED
+  TCP    127.0.0.1:50911        dev-server:0           LISTENING
+  TCP    127.0.0.1:50912        dev-server:0           LISTENING
+  TCP    127.0.0.1:53565        kubernetes:5354        ESTABLISHED
+  TCP    127.0.0.1:53566        kubernetes:5354        ESTABLISHED
+  TCP    127.0.0.1:54497        dev-server:0           LISTENING
+  TCP    127.0.0.1:55177        kubernetes:55178       ESTABLISHED
+  TCP    127.0.0.1:55178        kubernetes:55177       ESTABLISHED
+  TCP    127.0.0.1:55613        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:56110        kubernetes:56111       ESTABLISHED
+  TCP    127.0.0.1:56111        kubernetes:56110       ESTABLISHED
+  TCP    127.0.0.1:56115        kubernetes:56116       ESTABLISHED
+  TCP    127.0.0.1:56116        kubernetes:56115       ESTABLISHED
+  TCP    127.0.0.1:57580        kubernetes:9100        ESTABLISHED
+  TCP    127.0.0.1:57597        kubernetes:9010        ESTABLISHED
+  TCP    127.0.0.1:58865        kubernetes:36369       ESTABLISHED
+  TCP    127.0.0.1:59289        kubernetes:63257       ESTABLISHED
+  TCP    127.0.0.1:59536        dev-server:0           LISTENING
+  TCP    127.0.0.1:59752        kubernetes:59753       ESTABLISHED
+  TCP    127.0.0.1:59753        kubernetes:59752       ESTABLISHED
+  TCP    127.0.0.1:60938        kubernetes:60939       ESTABLISHED
+  TCP    127.0.0.1:60939        kubernetes:60938       ESTABLISHED
+  TCP    127.0.0.1:60940        kubernetes:60941       ESTABLISHED
+  TCP    127.0.0.1:60941        kubernetes:60940       ESTABLISHED
+  TCP    127.0.0.1:60942        kubernetes:60943       ESTABLISHED
+  TCP    127.0.0.1:60943        kubernetes:60942       ESTABLISHED
+  TCP    127.0.0.1:60944        kubernetes:60945       ESTABLISHED
+  TCP    127.0.0.1:60945        kubernetes:60944       ESTABLISHED
+  TCP    127.0.0.1:60946        kubernetes:60947       ESTABLISHED
+  TCP    127.0.0.1:60947        kubernetes:60946       ESTABLISHED
+  TCP    127.0.0.1:60948        kubernetes:60949       ESTABLISHED
+  TCP    127.0.0.1:60949        kubernetes:60948       ESTABLISHED
+  TCP    127.0.0.1:60950        kubernetes:60951       ESTABLISHED
+  TCP    127.0.0.1:60951        kubernetes:60950       ESTABLISHED
+  TCP    127.0.0.1:60952        kubernetes:60953       ESTABLISHED
+  TCP    127.0.0.1:60953        kubernetes:60952       ESTABLISHED
+  TCP    127.0.0.1:63257        dev-server:0           LISTENING
+  TCP    127.0.0.1:63257        kubernetes:59289       ESTABLISHED
+  TCP    127.0.0.1:63786        kubernetes:64630       ESTABLISHED
+  TCP    127.0.0.1:63787        kubernetes:64630       ESTABLISHED
+  TCP    127.0.0.1:63820        dev-server:0           LISTENING
+  TCP    127.0.0.1:63821        dev-server:0           LISTENING
+  TCP    127.0.0.1:64627        kubernetes:65001       ESTABLISHED
+  TCP    127.0.0.1:64630        dev-server:0           LISTENING
+  TCP    127.0.0.1:64630        kubernetes:55612       TIME_WAIT
+  TCP    127.0.0.1:64630        kubernetes:63786       ESTABLISHED
+  TCP    127.0.0.1:64630        kubernetes:63787       ESTABLISHED
+  TCP    127.0.0.1:64630        kubernetes:64670       ESTABLISHED
+  TCP    127.0.0.1:64630        kubernetes:64854       TIME_WAIT
+  TCP    127.0.0.1:64630        kubernetes:64858       TIME_WAIT
+  TCP    127.0.0.1:64630        kubernetes:64871       TIME_WAIT
+  TCP    127.0.0.1:64630        kubernetes:64873       TIME_WAIT
+  TCP    127.0.0.1:64630        kubernetes:64874       TIME_WAIT
+  TCP    127.0.0.1:64670        kubernetes:64630       ESTABLISHED
+  TCP    127.0.0.1:64859        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:64860        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:64861        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:64862        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:64875        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:64876        kubernetes:64630       TIME_WAIT
+  TCP    127.0.0.1:65001        dev-server:0           LISTENING
+  TCP    127.0.0.1:65001        kubernetes:64627       ESTABLISHED
+  TCP    127.0.0.1:65343        dev-server:0           LISTENING
+  TCP    127.0.0.1:65346        kubernetes:9977        ESTABLISHED
+  TCP    172.18.208.1:139       dev-server:0           LISTENING
+  TCP    172.18.208.1:49617     172.18.222.124:36595   ESTABLISHED
+  TCP    172.18.208.1:54638     172.18.222.124:36595   ESTABLISHED
+  TCP    172.18.208.1:56322     172.18.222.124:36595   ESTABLISHED
+  TCP    172.18.208.1:58163     172.18.222.124:36595   ESTABLISHED
+  TCP    172.18.208.1:58420     172.18.222.124:36595   ESTABLISHED
+  TCP    172.18.208.1:65043     172.18.222.124:36595   ESTABLISHED
+  TCP    172.30.128.1:139       dev-server:0           LISTENING
+  TCP    [::]:80                dev-server:0           LISTENING
+  TCP    [::]:135               dev-server:0           LISTENING
+  TCP    [::]:445               dev-server:0           LISTENING
+  TCP    [::]:1521              dev-server:0           LISTENING
+  TCP    [::]:2179              dev-server:0           LISTENING
+  TCP    [::]:2869              dev-server:0           LISTENING
+  TCP    [::]:3389              dev-server:0           LISTENING
+  TCP    [::]:5357              dev-server:0           LISTENING
+  TCP    [::]:5432              dev-server:0           LISTENING
+  TCP    [::]:5434              dev-server:0           LISTENING
+  TCP    [::]:5435              dev-server:0           LISTENING
+  TCP    [::]:5443              dev-server:0           LISTENING
+  TCP    [::]:7680              dev-server:0           LISTENING
+  TCP    [::]:7899              dev-server:0           LISTENING
+  TCP    [::]:17500             dev-server:0           LISTENING
+  TCP    [::]:41000             dev-server:0           LISTENING
+  TCP    [::]:47984             dev-server:0           LISTENING
+  TCP    [::]:47989             dev-server:0           LISTENING
+  TCP    [::]:48010             dev-server:0           LISTENING
+  TCP    [::]:49664             dev-server:0           LISTENING
+  TCP    [::]:49665             dev-server:0           LISTENING
+  TCP    [::]:49666             dev-server:0           LISTENING
+  TCP    [::]:49667             dev-server:0           LISTENING
+  TCP    [::]:49668             dev-server:0           LISTENING
+  TCP    [::]:59993             dev-server:0           LISTENING
+  TCP    [::]:63256             dev-server:0           LISTENING
+  TCP    [::]:63267             dev-server:0           LISTENING
+  TCP    [::1]:80               dev-server:0           LISTENING
+  TCP    [::1]:1521             dev-server:0           LISTENING
+  TCP    [::1]:5432             dev-server:0           LISTENING
+  TCP    [::1]:5434             dev-server:0           LISTENING
+  TCP    [::1]:5435             dev-server:0           LISTENING
+  TCP    [::1]:5443             dev-server:0           LISTENING
+  TCP    [::1]:7899             dev-server:0           LISTENING
+  TCP    [::1]:36595            dev-server:0           LISTENING
+  TCP    [::1]:41000            dev-server:0           LISTENING
+  TCP    [::1]:59993            dev-server:0           LISTENING
+  TCP    [fe80::644e:af2e:258c:eadf%4]:2179  dev-server:50091       ESTABLISHED
+  TCP    [fe80::644e:af2e:258c:eadf%4]:50091  dev-server:2179        ESTABLISHED
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:3389           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:17500          *:*                    
+  UDP    0.0.0.0:27036          *:*                    
+  UDP    0.0.0.0:49195          *:*                    
+  UDP    0.0.0.0:49597          *:*                    
+  UDP    0.0.0.0:50071          *:*                    
+  UDP    0.0.0.0:51993          *:*                    
+  UDP    0.0.0.0:52445          *:*                    
+  UDP    0.0.0.0:52918          *:*                    
+  UDP    0.0.0.0:53350          *:*                    
+  UDP    0.0.0.0:53836          *:*                    
+  UDP    0.0.0.0:54107          *:*                    
+  UDP    0.0.0.0:54660          *:*                    
+  UDP    0.0.0.0:54662          *:*                    
+  UDP    0.0.0.0:54915          *:*                    
+  UDP    0.0.0.0:57620          *:*                    
+  UDP    0.0.0.0:57925          *:*                    
+  UDP    0.0.0.0:64189          *:*                    
+  UDP    0.0.0.0:64635          *:*                    
+  UDP    0.0.0.0:65094          *:*                    
+  UDP    0.0.0.0:65353          *:*                    
+  UDP    0.0.0.0:65356          *:*                    
+  UDP    30.20.30.101:137       *:*                    
+  UDP    30.20.30.101:138       *:*                    
+  UDP    30.20.30.101:1900      *:*                    
+  UDP    30.20.30.101:5353      *:*                    
+  UDP    30.20.30.101:5353      *:*                    
+  UDP    30.20.30.101:5353      *:*                    
+  UDP    30.20.30.101:64185     *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10010        *:*                    
+  UDP    127.0.0.1:10011        *:*                    
+  UDP    127.0.0.1:10012        *:*                    
+  UDP    127.0.0.1:50076        *:*                    
+  UDP    127.0.0.1:50077        *:*                    
+  UDP    127.0.0.1:51276        *:*                    
+  UDP    127.0.0.1:51277        *:*                    
+  UDP    127.0.0.1:51992        *:*                    
+  UDP    127.0.0.1:54462        *:*                    
+  UDP    127.0.0.1:54463        *:*                    
+  UDP    127.0.0.1:54549        *:*                    
+  UDP    127.0.0.1:54550        *:*                    
+  UDP    127.0.0.1:55324        *:*                    
+  UDP    127.0.0.1:55325        *:*                    
+  UDP    127.0.0.1:57869        *:*                    
+  UDP    127.0.0.1:57870        *:*                    
+  UDP    127.0.0.1:57950        *:*                    
+  UDP    127.0.0.1:57951        *:*                    
+  UDP    127.0.0.1:57952        *:*                    
+  UDP    127.0.0.1:57953        *:*                    
+  UDP    127.0.0.1:57954        *:*                    
+  UDP    127.0.0.1:58245        *:*                    
+  UDP    127.0.0.1:62148        *:*                    
+  UDP    127.0.0.1:62149        *:*                    
+  UDP    127.0.0.1:64186        *:*                    
+  UDP    172.18.208.1:137       *:*                    
+  UDP    172.18.208.1:138       *:*                    
+  UDP    172.18.208.1:1900      *:*                    
+  UDP    172.18.208.1:5353      *:*                    
+  UDP    172.18.208.1:5353      *:*                    
+  UDP    172.18.208.1:64188     *:*                    
+  UDP    172.30.128.1:67        *:*                    
+  UDP    172.30.128.1:68        *:*                    
+  UDP    172.30.128.1:137       *:*                    
+  UDP    172.30.128.1:138       *:*                    
+  UDP    172.30.128.1:1900      *:*                    
+  UDP    172.30.128.1:5353      *:*                    
+  UDP    172.30.128.1:5353      *:*                    
+  UDP    172.30.128.1:5353      *:*                    
+  UDP    172.30.128.1:64187     *:*                    
+  UDP    [::]:3389              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:47998             *:*                    
+  UDP    [::]:47999             *:*                    
+  UDP    [::]:48000             *:*                    
+  UDP    [::]:48002             *:*                    
+  UDP    [::]:48010             *:*                    
+  UDP    [::]:50071             *:*                    
+  UDP    [::]:51994             *:*                    
+  UDP    [::]:52919             *:*                    
+  UDP    [::]:53075             *:*                    
+  UDP    [::]:53837             *:*                    
+  UDP    [::]:54661             *:*                    
+  UDP    [::]:54663             *:*                    
+  UDP    [::]:54915             *:*                    
+  UDP    [::]:57620             *:*                    
+  UDP    [::]:57925             *:*                    
+  UDP    [::]:64636             *:*                    
+  UDP    [::]:65357             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:64182            *:*                    
+  UDP    [fe80::211a:a000:73bf:9ab%46]:1900  *:*                    
+  UDP    [fe80::211a:a000:73bf:9ab%46]:64183  *:*                    
+  UDP    [fe80::608e:9941:789c:41ef%54]:1900  *:*                    
+  UDP    [fe80::608e:9941:789c:41ef%54]:64184  *:*                    
+  UDP    [fe80::644e:af2e:258c:eadf%4]:1900  *:*                    
+  UDP    [fe80::644e:af2e:258c:eadf%4]:64181  *:*                    
